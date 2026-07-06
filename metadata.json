@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Techfest 3D Portal",
+  "description": "An immersive, interactive 3D website for the ultimate futuristic technology festival, featuring digital globes, glowing neural networks, and scroll-driven storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
